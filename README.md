@@ -1,5 +1,5 @@
 # 为 SD Automatic WebUI 的系统信息选项卡扩展
-
+## 使用注意：请先安装nvidia-smi库，可以通过这条命令安装：'''pip install nvidia-ml-py3 '''
 ## 基于vlad作者的系统信息插件，做出了更完善的更新：
 
 *更新包括*：
@@ -14,6 +14,11 @@
 
 # 截图
 ---
+## 第一栏：服务器及运行时间
+![image](https://github.com/2575044704/sd-extension-system-info/assets/19410065/6de11e09-092a-4607-97c6-fd064aae5e0a)
+## 第二栏：服务器显存利用率和显卡温度
+![image](https://github.com/2575044704/sd-extension-system-info/assets/19410065/de99816a-2332-4ca1-b5c0-cebf49cee052)
+## 完整截图：
 ![image](https://github.com/2575044704/sd-extension-system-info/assets/19410065/763dd1b8-889e-4361-b4a9-e3a4f0790153)
 
 ---
