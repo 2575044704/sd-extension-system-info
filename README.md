@@ -19,6 +19,9 @@
 ![image](https://github.com/2575044704/sd-extension-system-info/assets/19410065/6de11e09-092a-4607-97c6-fd064aae5e0a)
 ## 第二栏：服务器显存利用率和显卡温度
 ![image](https://github.com/2575044704/sd-extension-system-info/assets/19410065/de99816a-2332-4ca1-b5c0-cebf49cee052)
+## 第三栏：显卡名称及其显存
+![image](https://github.com/2575044704/sd-extension-system-info/assets/19410065/ec7935c8-c4ba-4625-8769-1bc0f548529b)
+
 ## 完整截图：
 ![image](https://github.com/2575044704/sd-extension-system-info/assets/19410065/763dd1b8-889e-4361-b4a9-e3a4f0790153)
 
