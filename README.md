@@ -1,5 +1,6 @@
 # 为 SD Automatic WebUI 的系统信息选项卡扩展
-## 使用注意：请先安装nvidia-smi库，可以通过这条命令安装：'''pip install nvidia-ml-py3 '''
+## 使用注意：请先安装nvidia-smi库，可以通过这条命令安装：
+```pip install nvidia-ml-py3```
 ## 基于vlad作者的系统信息插件，做出了更完善的更新：
 
 *更新包括*：
